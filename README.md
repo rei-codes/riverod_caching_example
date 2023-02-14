@@ -1,16 +1,6 @@
-# riverpod_caching
+![Cover](https://miro.medium.com/v2/resize:fit:4800/format:webp/1*YQtDmOrT6TCz_j_7lJ6GeQ.jpeg)
 
-A new Flutter project.
+# Reduce your server cost with Riverpod
+## Optimize your API requests & app performance through useful extensions.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+More information about the project: [Medium](https://medium.com/itnext/reduce-your-server-cost-with-riverpod-29015839c1b4)
